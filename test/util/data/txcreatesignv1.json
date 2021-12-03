@@ -1,0 +1,35 @@
+{
+    "txid": "6a9a44aa08b368ca8ac2acf8dea522df4d94b31f59129f91b65b65866d1acc51",
+    "hash": "6a9a44aa08b368ca8ac2acf8dea522df4d94b31f59129f91b65b65866d1acc51",
+    "version": 1,
+    "size": 83,
+    "vsize": 83,
+    "locktime": 0,
+    "vin": [
+        {
+            "txid": "6c2789243608b46f750f49ff24f6f79a78c3010f7e56951e045e5b7ea5d07bf7",
+            "vout": 0,
+            "scriptSig": {
+                "asm": "",
+                "hex": ""
+            },
+            "sequence": 4294967295
+        }
+    ],
+    "vout": [
+        {
+            "value": 0.00100000,
+            "n": 0,
+            "scriptPubKey": {
+                "asm": "OP_HASH160 1c6fbaf46d64221e80cbae182c33ddf81b9294ac OP_EQUAL",
+                "hex": "a9141c6fbaf46d64221e80cbae182c33ddf81b9294ac87",
+                "reqSigs": 1,
+                "type": "scripthash",
+                "addresses": [
+                    "VDFah8VXKvYGv8ScKjZDgTSbWh21JhXaa7"
+                ]
+            }
+        }
+    ],
+    "hex": "0100000001f77bd0a57e5b5e041e95567e0f01c3789af7f624ff490f756fb408362489276c0000000000ffffffff01a08601000000000017a9141c6fbaf46d64221e80cbae182c33ddf81b9294ac8700000000"
+}

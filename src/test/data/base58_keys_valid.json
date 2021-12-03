@@ -1,0 +1,54 @@
+[
+    [
+        "VQN8uyJJb7diPuh67uQT3LX58nFZk2RMMF",
+        "a914965681baf2c68aff9b800e5703a821e13d35c47a87",
+        {
+            "isPrivkey": false,
+            "chain": "main"
+        }
+    ],
+    [
+        "MZmtfzLbwnaTkHJRvXmDe9UgzamF364UmEJBVz5ZgMyo3CWvx4mB",
+        "054533bad91af416d168c5c51aeafa61b67d3b94e5427263fa4f1684c052126c",
+        {
+            "isCompressed": true,
+            "isPrivkey": true,
+            "chain": "main"
+        }
+    ],
+    [
+        "TPjFpBXnHtWQor2GtDdEaDJPaG3krHEBQk",
+        "a91496ee490592fe4802908ebedc0766f6759fab2fc587",
+        {
+            "isPrivkey": false,
+            "chain": "test"
+        }
+    ],
+    [
+        "9hiKJzEfitCmaMKQTo3HA1K4388xC1UanyQuDUVd9F1oLjSCH4gL",
+        "d34d5fa151df1abd508daa35b1f20db705ef11a4e304c0bde8db4eb2806e3932",
+        {
+            "isCompressed": true,
+            "isPrivkey": true,
+            "chain": "test"
+        }
+    ],
+    [
+        "kva1qmq67acrdku39439e85xyg69eqq0m0fp6qczcne",
+        "0014d835eee06db7225ac4b93d0c4468b9001fb7a43a",
+        {
+            "isPrivkey": false,
+            "chain": "main",
+            "tryCaseFlip": true
+        }
+    ],
+    [
+        "tkva1q78telyhlfnp0hqgkxxdpd8l977k9f3tjmgwnrg",
+        "0014f1d79f92ff4cc2fb8116319a169fe5f7ac54c572",
+        {
+            "isPrivkey": false,
+            "chain": "test",
+            "tryCaseFlip": true
+        }
+    ]
+]
